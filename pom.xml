@@ -3,7 +3,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-
+               
   <groupId>com.kgc</groupId>
   <artifactId>SSM_Project</artifactId>
   <version>1.0-SNAPSHOT</version>
@@ -15,6 +15,7 @@
   </modules>
   <packaging>pom</packaging>
   <!--
+        qwerasd
         工程和模块的区别:
            工程不等于完整的项目，模块也不等于完整的项目  一个完整的项目看的是代码  代码完整  就可以说这是一个完整的项目
            和此项目是工程还是模块都没有关系
